@@ -10,7 +10,7 @@ Airfoil coordinates import function in Python.
 ## Requirements
 [Python](https://www.python.org/)<br>
 
-Provided code is tested with **Python 3.10.1 **.
+Provided code is tested with **Python 3.10.1**.
 
 ## Usage
 
