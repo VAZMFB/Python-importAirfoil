@@ -41,5 +41,5 @@ if '%errorlevel%' NEQ '0' ( echo Requesting administrative privileges... ) else 
 :gotAdmin
 
 :: Execute commands
-cmd /k "cd ../ & Scripts\activate & cd %realPath% & cd ../../ & pip install -U pip setuptools twine & twine upload --repository dist/*"
+cmd /k "cd ../ & Scripts\activate & cd %realPath% & cd ../../ & pip install -U pip setuptools twine & python setup.py sdist & twine upload --repository dist/*"
 :: --------------------
