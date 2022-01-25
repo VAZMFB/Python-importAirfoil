@@ -53,7 +53,7 @@ Same as the Siegel format but with the additional header.
 Same as the Lednicer format but multiplied by 100.
 
 ## License
-Copyright (C) 2022 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2022 Milos Petrasinovic <info@vazmfb.com>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 
