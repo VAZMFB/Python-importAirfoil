@@ -8,10 +8,10 @@ print(long_description)
 
 setup(
     name='importAirfoil',
-    version='1.2.0',
-    packages=['src'],
+    version='1.3.0',
+    packages=['importAirfoil'],
     url='https://github.com/VAZMFB/Python-importAirfoil',
-    download_url = 'https://github.com/VAZMFB/Python-importAirfoil/archive/refs/tags/1.2.0.tar.gz',
+    download_url = 'https://github.com/VAZMFB/Python-importAirfoil/archive/refs/tags/1.3.0.tar.gz',
     keywords = ['airfoil', 'import-airfoil'],
     license='GPL-3.0-or-later',
     author='Miloš Petrašinović',
