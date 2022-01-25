@@ -48,6 +48,11 @@ def scanf(l):
         return tuple([casts[i](groups[i]) for i in range(len(groups))])
     
 def importAirfoil(file):
+    """
+    Airfoil coordinates import function
+    
+    :param file: full path to document with airfoil data
+    """
     af = [];
     if(os.path.isfile(file)):
         with open(file) as f:

@@ -28,7 +28,7 @@ t = time.time()
 import sys
 import os
 pwd = os.getcwd();
-sys.path.append(pwd + '\\..\\..\\')
+sys.path.append(pwd + '\\..\\..\\src\\')
 from importAirfoil import *
 import matplotlib.pyplot as plt
 

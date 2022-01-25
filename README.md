@@ -12,6 +12,13 @@ Airfoil coordinates import function in Python.
 
 Provided code is tested with **Python 3.10.1**.
 
+## Installation
+Run:
+
+```python
+pip install importAirfoil
+```
+
 ## Usage
 
 Use `importAirfoil` function with the full path to document with airfoil data as only input argument. 

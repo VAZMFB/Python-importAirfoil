@@ -3,6 +3,12 @@ Python-importAirfoil
 Python Airfoil coordinates import function.
 --------------------
 
+Release 1.0.1, 25.01.2022.
+
+- Package adjusted for PyPi
+
+--------------------
+
 Release 1.0.0, 06.01.2022.
 
 - Initial release
