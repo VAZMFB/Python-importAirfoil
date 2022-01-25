@@ -19,6 +19,12 @@ Run:
 pip install importAirfoil
 ```
 
+Then you can import function with:
+
+```python
+import importAirfoil.importAirfoil as importAirfoil 
+```
+
 ## Usage
 
 Use `importAirfoil` function with the full path to document with airfoil data as only input argument. 
