@@ -3,7 +3,7 @@
 # Structural Analysis of Flying Vehicles
 # Faculty of Mechanical Engineering, University of Belgrade
 # Department of Aerospace Engineering, Flying structures
-# https://vazmfb.com
+# http://vaz.mas.bg.ac.rs
 # Belgrade, 2022
 # ----- INPUTS -----
 # file - full path to document with airfoil data
@@ -11,7 +11,7 @@
 # af - airfoil coordinates
 # ---------------
 #
-# Copyright (C) 2022 Milos Petrasinovic <info@vazmfb.com>
+# Copyright (C) 2022 Milos Petrasinovic <mpetrasinovic@mas.bg.ac.rs>
 #  
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as 
